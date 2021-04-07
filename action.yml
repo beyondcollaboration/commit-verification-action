@@ -1,0 +1,5 @@
+name: 'BI Commit Signature verification'
+description: 'Verifys a git commit signature'
+runs:
+    user: 'docker'
+    image: 'Dockerfile'
